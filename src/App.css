@@ -1,3 +1,8 @@
 /* .district{
 
 } */
+.postStyle{
+    background-color: bisque;
+    /* display: flex; */
+    text-align: center;
+}
